@@ -7,3 +7,7 @@
 [cn map](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
 
 [must do programs](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
+
+**Machine learning**.
+[Numericals](https://www.youtube.com/watch?v=O6vwN74aSGY&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn)
