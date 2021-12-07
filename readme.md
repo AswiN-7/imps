@@ -4,6 +4,9 @@
   * [Road map](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
 * # Database Management System #
   * [Road map](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
+  * [concepts](https://www.youtube.com/watch?v=7GVFYt6_ZFM&list=PL08903FB7ACA1C2FB)
+  * [pl/sql](https://www.youtube.com/playlist?list=PLVlQHNRLflP-B-e7daJkgKPS_vmya5mY6)
+  * [sql](https://www.youtube.com/playlist?list=PLVlQHNRLflP8tgE_tO3Ok9JwzKrTHNxDS)
 * # Computer Networks #
   * [Road map](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
 * # must do programs #
