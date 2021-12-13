@@ -1,3 +1,6 @@
+* # System design #
+  * [primer](https://github.com/donnemartin/system-design-primer)
+  * [stater](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=1)
 * # oops #
   * [Road map](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
 * # operating System #
