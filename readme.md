@@ -22,3 +22,5 @@
 * # Algorithms #
   * [Dynamic programming](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=5s&ab_channel=freeCodeCamp.org)
   * [Graph](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=10s&ab_channel=freeCodeCamp.org)
+* # digital logics #
+  * [Building an 8-bit breadboard computer!](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU&ab_channel=BenEater)
