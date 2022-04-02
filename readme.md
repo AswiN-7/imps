@@ -25,3 +25,5 @@
 * # Digital logics #
   * [how computers work](https://www.youtube.com/watch?v=QZwneRb-zqA&ab_channel=SebastianLague)
   * [Building an 8-bit breadboard computer!](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU&ab_channel=BenEater)
+* # Distributed systems #
+  * [videos](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)  
