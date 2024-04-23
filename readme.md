@@ -27,3 +27,4 @@
   * [Building an 8-bit breadboard computer!](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU&ab_channel=BenEater)
 * # Distributed systems #
   * [videos](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)  
+[l](https://docs.google.com/spreadsheets/d/1YZiuTF_iU1iW0fOwvv83j8WB82CXI8LQPtkWMU9nDOg/edit?usp=drivesdk)
